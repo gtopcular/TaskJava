@@ -1,7 +1,8 @@
 # TaskJava
 
-Projeye başlarken Spring Boot üzerinden .Jar dosyalarının kolay yönetilebilmesin adına Maven projesi oluştuıruldu.
-Proje oluşturulurken MVC yapısına ugun olarak Controller-Service-Repository şeklinde bölündü
+Projeye başlarken Spring Boot üzerinden .Jar dosyalarının kolay yönetilebilmesin adına Maven projesi oluşturuldu.
+ORM olarak Hibernate kullanıldı.
+Proje oluşturulurken MVC yapısına ugun olarak Controller-Service-Repository şeklinde bölündü.
 MySQL in içerisinde Default olarak bulunan worlds DB kullanıldı
 Proje Yazıldıktan sonra yapılan kısımlar Postman ile test edildi.
 
